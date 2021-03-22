@@ -4,8 +4,6 @@
 
 View the live verison at -> http://ericellb.github.io/React-Discord-Clone
 
-** For buisness Inquires or support email us at HAWKUS@outlook.com  OR  arjusaltoman@gmail.com **
-
 Originally started as a simple chatting application to test my Frontend + Backend skills, magically turned into a Discord Clone.
 
 ![layout image](public/app.png)
